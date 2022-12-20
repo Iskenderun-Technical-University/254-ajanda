@@ -1,0 +1,85 @@
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.exe
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.deps.json
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.runtimeconfig.json
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.AssemblyReference.cache
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi_yarışması_oyunu.Form1.resources
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.GenerateResource.cache
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfoInputs.cache
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfo.cs
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\refint\Bilgi yarışması oyunu.dll
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.genruntimeconfig.cache
+C:\Users\ismai\kodlar\C#\form dersleri\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\ref\Bilgi yarışması oyunu.dll
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.exe
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.deps.json
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.runtimeconfig.json
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.AssemblyReference.cache
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi_yarışması_oyunu.Form1.resources
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.GenerateResource.cache
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfoInputs.cache
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfo.cs
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\refint\Bilgi yarışması oyunu.dll
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.genruntimeconfig.cache
+C:\Users\Safranbolu78\Desktop\Yeni klasör\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\ref\Bilgi yarışması oyunu.dll
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.exe
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.deps.json
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.runtimeconfig.json
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.AssemblyReference.cache
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi_yarışması_oyunu.Form1.resources
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.GenerateResource.cache
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfoInputs.cache
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfo.cs
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\refint\Bilgi yarışması oyunu.dll
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.genruntimeconfig.cache
+C:\Users\ismai\source\repos\gorsel-programlama-donem-projesi-254-ajanda\Bilgi yarışması oyunu\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\ref\Bilgi yarışması oyunu.dll
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.exe
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.deps.json
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.runtimeconfig.json
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi_yarışması_oyunu.Form1.resources
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.GenerateResource.cache
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfoInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfo.cs
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\refint\Bilgi yarışması oyunu.dll
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.genruntimeconfig.cache
+C:\Users\ismai\OneDrive\Masaüstü\Yeni klasör\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\ref\Bilgi yarışması oyunu.dll
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.exe
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.deps.json
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.runtimeconfig.json
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\bin\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.AssemblyReference.cache
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi_yarışması_oyunu.Form1.resources
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.GenerateResource.cache
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfoInputs.cache
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.AssemblyInfo.cs
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.dll
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\refint\Bilgi yarışması oyunu.dll
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.pdb
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\Bilgi yarışması oyunu.genruntimeconfig.cache
+C:\Users\Safranbolu78\Desktop\en son hali\Bilgi yarışması oyunu\obj\Debug\net6.0-windows\ref\Bilgi yarışması oyunu.dll

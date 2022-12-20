@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilgi yarışması oyunu", "Bilgi yarışması oyunu\Bilgi yarışması oyunu.csproj", "{783F99EA-3893-4F9A-BAFC-8701A0056DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783F99EA-3893-4F9A-BAFC-8701A0056DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783F99EA-3893-4F9A-BAFC-8701A0056DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783F99EA-3893-4F9A-BAFC-8701A0056DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783F99EA-3893-4F9A-BAFC-8701A0056DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C8244E7-4F79-48C4-9F0C-7911E41B410C}
+	EndGlobalSection
+EndGlobal
